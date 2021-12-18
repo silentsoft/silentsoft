@@ -1680,18 +1680,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 39.50310559006211%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 38.86435331230284%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">49%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 24.09937888198758%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">30%</span>
+                            <div class="bar" style="width: 24.4794952681388%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">31%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 16.39751552795031%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">20%</span>
+                            <div class="bar" style="width: 16.65615141955836%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">21%</span>
                         </div>
                     </div>
                 </section>
@@ -2727,7 +2727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>krasa/MavenHelper</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2769,7 +2769,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actlist/actlist-plugin-archetype</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2887,7 +2887,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2021, 07:06:30 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Dec 2021, 08:06:40 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
