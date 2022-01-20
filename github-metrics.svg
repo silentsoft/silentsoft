@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>forem/forem</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">For empowering community 🌱</div>
@@ -1560,7 +1560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Charlie85270/tail-kit</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.</div>
@@ -1610,7 +1610,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jan 2022, 14:07:49 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 15:07:57 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
