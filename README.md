@@ -7,7 +7,7 @@
     <h4>Developer who wants to benefit the world.</h4>
   </sup>
   <a href="https://hyesung.me"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://blog.silentsoft.org"><img src="https://img.shields.io/badge/Blog-2f3640?style=flat-square&logo=blogger&logoColor=white"/></a>
+  <a href="https://blog.silentsoft.org"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="https://dev.to/hyesunglee"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
   <a href="https://medium.com/@hyesunglee"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
 </h3>
