@@ -15,7 +15,7 @@
 ### Side Projects
 - [Actlist](https://actlist.io): :package: Utility platform to execute your own action list easily and simply.
 - [Hits](https://hits.sh): :chart_with_upwards_trend: Hit Counter for Your GitHub or Any Kind of Websites You Want.
-- [Acmicpc Kit](https://github.com/silentsoft/acmicpc-kit): :rocket: Template project for creating the problem project using fully customizable templates.
+- [Schrodinger's Inbox](https://schrodingersinbox.net): :mailbox: Your emails exist and don't exist until you observe them. A quantum leap in temporary email services.
 
 ### Articles on dev.to
 - [The Semantic Emptiness of Objects in the If Statement](https://dev.to/hyesunglee/the-semantic-emptiness-of-objects-in-the-if-statement-do1)
