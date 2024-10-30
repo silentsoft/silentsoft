@@ -4,7 +4,7 @@
 </h2>
 <h3>
   <sup>
-    <h4>Developer who wants to benefit the world.</h4>
+    <h4>A developer who wants to benefit the world.</h4>
   </sup>
   <a href="https://hyesung.me"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://blog.silentsoft.org"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/></a>
