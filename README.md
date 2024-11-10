@@ -16,6 +16,7 @@
 - [Actlist](https://actlist.io): :package: Utility platform to execute your own action list easily and simply.
 - [Hits](https://hits.sh): :chart_with_upwards_trend: Hit Counter for Your GitHub or Any Kind of Websites You Want.
 - [Schrodinger's Inbox](https://schrodingersinbox.net): :mailbox: Your emails exist and don't exist until you observe them. A quantum leap in temporary email services.
+- [Whiscribe](https://github.com/silentsoft/whiscribe): :clapper: A tool with a UI that transcribes audio files into subtitles using OpenAI's Whisper.
 
 ### Articles on dev.to
 - [The Semantic Emptiness of Objects in the If Statement](https://dev.to/hyesunglee/the-semantic-emptiness-of-objects-in-the-if-statement-do1)
