@@ -17,6 +17,7 @@
 - [Hits](https://hits.sh): :chart_with_upwards_trend: Hit Counter for Your GitHub or Any Kind of Websites You Want.
 - [Schrodinger's Inbox](https://schrodingersinbox.net): :mailbox: Your emails exist and don't exist until you observe them. A quantum leap in temporary email services.
 - [Whiscribe](https://github.com/silentsoft/whiscribe): :clapper: A tool with a UI that transcribes audio files into subtitles in SRT format using OpenAI's Whisper and runs completely on your local machine.
+- [Chatmulate](https://github.com/silentsoft/chatmulate): :speech_balloon: A real-time multimodal AI chat simulator that captures webcam and microphone streams to generate interactive chat messages via OpenAI APIs.
 
 ### Articles on dev.to
 - [The Semantic Emptiness of Objects in the If Statement](https://dev.to/hyesunglee/the-semantic-emptiness-of-objects-in-the-if-statement-do1)
