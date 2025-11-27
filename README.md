@@ -14,7 +14,7 @@
 
 ### Side Projects
 - [Actlist](https://actlist.io): :package: Utility platform to execute your own action list easily and simply.
-- [Hits](https://hits.sh): :chart_with_upwards_trend: Hit Counter for Your GitHub or Any Kind of Websites You Want.
+- [Hits](https://hits.sh): :rocket: A fast, simple and privacy-friendly way to count hits on your GitHub repositories, websites and more.
 - [Schrodinger's Inbox](https://schrodingersinbox.net): :mailbox: Your emails exist and don't exist until you observe them. A quantum leap in temporary email services.
 - [Whiscribe](https://github.com/silentsoft/whiscribe): :clapper: A tool with a UI that transcribes audio files into subtitles in SRT format using OpenAI's Whisper and runs completely on your local machine.
 - [Chatmulate](https://github.com/silentsoft/chatmulate): :speech_balloon: A real-time multimodal AI chat simulator that captures webcam and microphone streams to generate interactive chat messages via OpenAI APIs.
